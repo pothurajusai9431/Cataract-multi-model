@@ -47,3 +47,6 @@ The objective of this project was to compare the performance of various deep lea
 #### Outcome
 
 The trained models successfully distinguished between cataract and normal eye images. Comparative analysis showed differences in accuracy, computational complexity, and training time, helping identify the most suitable model for cataract screening applications.
+
+<img width="806" height="367" alt="image" src="https://github.com/user-attachments/assets/d34dbe8a-7f8a-4830-92a1-16d0219d1378" />
+
