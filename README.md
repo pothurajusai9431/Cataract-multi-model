@@ -50,3 +50,9 @@ The trained models successfully distinguished between cataract and normal eye im
 
 <img width="806" height="367" alt="image" src="https://github.com/user-attachments/assets/d34dbe8a-7f8a-4830-92a1-16d0219d1378" />
 
+<img width="652" height="373" alt="image" src="https://github.com/user-attachments/assets/4dce7632-bbce-4849-9489-d0c3d815ccc3" />
+<img width="740" height="383" alt="image" src="https://github.com/user-attachments/assets/e4f658d1-91de-471c-aa96-1945972bc312" />
+<img width="621" height="435" alt="image" src="https://github.com/user-attachments/assets/c3d48211-4599-4121-b8ba-f009518cb56b" />
+<img width="637" height="363" alt="image" src="https://github.com/user-attachments/assets/c58cf2ca-5031-4060-9c41-3fe958349510" />
+
+
