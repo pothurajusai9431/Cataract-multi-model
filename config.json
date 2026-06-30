@@ -1,0 +1,12 @@
+{
+  "models": [
+    "catarct_or_normalAlexNet.pth",
+    "catarct_or_normalDeepANN.pth",
+    "catarct_or_normalDeepCNN.pth",
+    "catarct_or_normalResNet.pth",
+    "catarct_or_normalVGG.pth"
+  ],
+  "num_classes": 2,
+  "classes": ["Cataract", "Normal"],
+  "input_size": [3, 128, 128]
+}
